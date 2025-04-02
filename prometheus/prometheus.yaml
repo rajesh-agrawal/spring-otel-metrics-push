@@ -1,0 +1,5 @@
+global:
+  scrape_interval: 5s
+
+#remote_write:
+#  - url: "http://otel-collector:9464"
