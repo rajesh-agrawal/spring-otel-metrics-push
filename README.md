@@ -1,7 +1,5 @@
 # OpenTelemetry Collector: Pushing Metrics to Prometheus
 
-![image info](./pictures/image.png)
-
 ![Prometheus Metrics exposes](img.png)
 
 ## Can OpenTelemetry Collector Push Metrics to Prometheus?
